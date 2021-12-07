@@ -1,7 +1,8 @@
 # 新建目录
 git init #初始化git本地仓库
 
-git remote add origin https://gitee.com/neu-shouliang-qi/ssl-algorithm.git # 当提示error: remote origin already exists.，先删除 git remote rm origin
+git remote add origin https://gitee.com/neu-shouliang-qi/ssl-algorithm.git 
+# 当提示error: remote origin already exists.，先删除 git remote rm origin
 
 git pull origin master  # pull到本地仓库
 
